@@ -1,0 +1,13 @@
+{
+  "name": "Portal Bosque",
+  "short_name": "PortalBosque",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#f0f7f4",
+  "theme_color": "#14532d",
+  "description": "Registro de horarios del personal · Maldonado, Uruguay",
+  "icons": [
+    { "src": "logo-portal-bosque.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "logo-portal-bosque.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
